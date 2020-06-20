@@ -10,5 +10,8 @@
 
 分析报告：https://blog.csdn.net/weixin_38746310/article/details/106818268
 
+新增：
+
+客户流失率预测：customer_loss_predict.py
 
 
